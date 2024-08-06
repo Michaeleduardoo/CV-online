@@ -40,7 +40,7 @@ Para instalar e executar este projeto localmente, siga os passos abaixo:
 
 Este projeto é um portfólio online que apresenta a experiência profissional, histórico de emprego, educação e informações de contato de Michael Eduardo. Navegue pelas seções para saber mais sobre suas habilidades e trajetória.
 
-## Projeto
+## Website
 
 ![cv](https://github.com/user-attachments/assets/8b71c4d4-8a2b-4118-adba-d2c41841b998)
 
