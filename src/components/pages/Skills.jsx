@@ -25,7 +25,7 @@ function Skills() {
             <br />
             <small>HTML5 · Remarcação · Pug</small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "100%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
@@ -36,7 +36,7 @@ function Skills() {
             <br />
             <small>Stylus · Sass · Bootstrap</small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "100%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
@@ -47,7 +47,7 @@ function Skills() {
             <br />
             <small>React · React Native · Vue</small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "95%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
@@ -58,7 +58,7 @@ function Skills() {
             <br />
             <small>PostgreSQL · MySQL · Redis</small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "80%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
