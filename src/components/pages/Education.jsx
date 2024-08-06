@@ -27,7 +27,7 @@ function Education() {
             <TextsmallExtra>Fev de 2021 · Dez de 2024 </TextsmallExtra>
             <small>Engenharia de Software </small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "90%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
@@ -39,7 +39,7 @@ function Education() {
             <TextsmallExtra>Jan de 2022 · Jan de 2022 </TextsmallExtra>
             <small>Desenvolvedor Full Stack </small>
             <Details>
-              <Progress></Progress>
+              <Progress style={{ width: "100%" }}></Progress>
             </Details>
           </InfoExtra>
         </Extra>
