@@ -42,7 +42,8 @@ Este projeto é um portfólio online que apresenta a experiência profissional, 
 
 ## Website
 
-![cv](https://github.com/user-attachments/assets/8b71c4d4-8a2b-4118-adba-d2c41841b998)
+![cv](https://github.com/user-attachments/assets/5200642f-6e7a-4a22-898c-74280173fcb0)
+
 
 <a href="https://cv-online-michael.vercel.app/">
     <img loading="lazy" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="MonIP" />
