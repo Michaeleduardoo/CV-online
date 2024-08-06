@@ -9,7 +9,7 @@ import {
 } from "../../components/style/styles";
 import { HiTable } from "react-icons/hi";
 
-function Professional() {
+function Skills() {
   return (
     <>
       <SectionTitle>
@@ -67,4 +67,4 @@ function Professional() {
   );
 }
 
-export default Professional;
+export default Skills;
